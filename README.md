@@ -1,3 +1,3 @@
-Volt Yapı Official Website
+VOLT YAPI Official Website
 
 http://www.voltyapi.com/
