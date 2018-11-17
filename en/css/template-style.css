@@ -2654,15 +2654,15 @@ a.tab-label.active-btn, a.tab-label:hover, .background-white-hightlight a.tab-la
   float: left;
 }
 .logo-menu {
-  width: 100px;
+  width: 180px;
 }
 .left-menu, .right-menu {
   padding-top: 20px;
-  width: calc(50% - 50px);
+  width: calc(50% - 100px);
 }
 .logo img {
   margin: 0 auto;
-  width: 88px;
+  width: 210px;
   position: relative;
   top: 12px;
 }
